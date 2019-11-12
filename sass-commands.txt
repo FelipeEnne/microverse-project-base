@@ -1,0 +1,5 @@
+sass assets/sass/style.scss assets/css/style.css --no-source-map --watch
+sass assets/sass/style.scss assets/css/style.css --no-source-map --watch
+
+sass assets/sass/style.scss assets/css/style.css --no-source-map
+sass assets/sass/framework.scss assets/css/framework.css --no-source-map
