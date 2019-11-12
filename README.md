@@ -6,7 +6,7 @@
 <!-- PROJECT TITLE -->
 
 <br />
-<h1 align="center">HTML Forms</h1>
+<h1 align="center">PROJECT TITLE</h1>
 <p align="center">
     a brief description of the project
     <br />
